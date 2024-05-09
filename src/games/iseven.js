@@ -1,4 +1,4 @@
-import checkAnswer from '../bin/index.js';
+import checkAnswer from '../../bin/index.js';
 
 console.log('Answer "yes" if the number is even, otherwise answer "no".');
 const isEven = () => {

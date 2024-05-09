@@ -1,4 +1,4 @@
-import checkAnswer from '../bin/index.js';
+import checkAnswer from '../../bin/index.js';
 
 console.log('What is the result of the expression?');
 const calc = () => {
