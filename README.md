@@ -46,3 +46,11 @@
 Для победы необходимо дать правильный ответ на три вопроса подряд.
 
 [![asciicast](https://asciinema.org/a/oVP4nypbMbT7b5yrbvyq25MKh.svg)](https://asciinema.org/a/oVP4nypbMbT7b5yrbvyq25MKh)
+
+### Игра: "Арифметическая прогрессия"
+
+Пользователю показывается ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
+
+Для победы необходимо дать правильный ответ на три вопроса подряд.
+
+[![asciicast](https://asciinema.org/a/lDOkjLE4cNDhHX2ZCLZnJCfYt.svg)](https://asciinema.org/a/lDOkjLE4cNDhHX2ZCLZnJCfYt)
