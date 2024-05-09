@@ -38,3 +38,11 @@
 Доступны следующие математические операции: `сложение`, `вычетание`, `умножение`.
 
 [![asciicast](https://asciinema.org/a/dmlINHYpuUDH08SRTjChqy2DP.svg)](https://asciinema.org/a/dmlINHYpuUDH08SRTjChqy2DP)
+
+### Игра: "НОД"
+
+Пользователю показывается два случайных числа. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
+
+Для победы необходимо дать правильный ответ на три вопроса подряд.
+
+[![asciicast](https://asciinema.org/a/oVP4nypbMbT7b5yrbvyq25MKh.svg)](https://asciinema.org/a/oVP4nypbMbT7b5yrbvyq25MKh)
