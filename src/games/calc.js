@@ -22,8 +22,7 @@ const calc = () => {
         console.log(`Question: ${firstNumber} * ${secondNumber}`);
         answer = firstNumber * secondNumber;
         break;
-      default:
-        console.log('Wrong operand');
+      default: console.log('Wrong operand');
     }
     isPlay = checkAnswer(answer, scoreCounter);
     scoreCounter += 1;
