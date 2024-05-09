@@ -7,7 +7,7 @@ const gcd = () => {
   while (isPlay) {
     let firstNumber = Math.round(Math.random() * 100);
     let secondNumber = Math.round(Math.random() * 100);
-    console.log(`Question: ${firstNumber}  ${secondNumber}`);
+    console.log(`Question: ${firstNumber} ${secondNumber}`);
     while (firstNumber && secondNumber) {
       if (firstNumber > secondNumber) {
         firstNumber %= secondNumber;
