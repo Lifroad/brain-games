@@ -54,3 +54,11 @@
 Для победы необходимо дать правильный ответ на три вопроса подряд.
 
 [![asciicast](https://asciinema.org/a/lDOkjLE4cNDhHX2ZCLZnJCfYt.svg)](https://asciinema.org/a/lDOkjLE4cNDhHX2ZCLZnJCfYt)
+
+### Игра: "Простое ли число?"
+
+Пользователю случайное число. Игрок должен определить - простое ли это число.
+
+Для победы необходимо дать правильный ответ на три вопроса подряд.
+
+[![asciicast](https://asciinema.org/a/UdJtOikCiiWgPB7ERNT9LrsTf.svg)](https://asciinema.org/a/UdJtOikCiiWgPB7ERNT9LrsTf)
