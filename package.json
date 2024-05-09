@@ -11,10 +11,11 @@
   "license": "ISC",
   "bin": {
     "brain-games": "/bin/brain-games.js",
-    "brain-even": "/bin/brain-even.js"
+    "brain-even": "/bin/brain-even.js",
+    "brain-calc": "/bin/brain-calc.js"
   },
   "dependencies": {
-    "brain-even": "^0.1.12",
+    "brain-even": "^1.0.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "readline-sync": "^1.4.10"
   },
